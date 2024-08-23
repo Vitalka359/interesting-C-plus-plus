@@ -4,7 +4,7 @@
 
 using namespace std;
 
-const int MAX_SIZE = 1000; // Максимальный размер массива
+const int MAX_SIZE = 1000; // ГЊГ ГЄГ±ГЁГ¬Г Г«ГјГ­Г»Г© Г°Г Г§Г¬ГҐГ° Г¬Г Г±Г±ГЁГўГ 
 
 void outputArray(int arr[], int n) {
     for (int i = 0; i < n; i++)
